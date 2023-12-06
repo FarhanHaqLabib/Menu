@@ -1,0 +1,87 @@
+body {
+    background-image: url(https://wallpapers.com/images/hd/bluish-orange-clear-sky-ckcbv6yqvjhcbi09.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: sans-serif;
+    padding: 20px;
+    
+}
+
+.menu { 
+    width: 80%;
+    background-color: rgba(184, 106, 106, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75%;
+    padding:20px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0%;
+    margin-bottom: -10px;
+}
+
+h2 {
+    font-size: 32.5px;
+    color: black;
+}
+
+.bored {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: auto;
+   
+    font-size: 20px;
+    font-style:italic;
+}
+
+.heda {
+   
+    background: -webkit-linear-gradient(rgb(155, 78, 78), rgb(86, 86, 170));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.slogan {
+    
+    background: -webkit-linear-gradient(rgb(155, 78, 78), rgb(86, 86, 170));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 27px;
+}
+
+h1,h2,p {
+    text-align: center;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(201, 86, 86);
+    border-color: rgb(201, 86, 86);
+  }
+
+  h1, h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .bhajapora, .fast, .rice, .snacks, .drinks {
+    text-align: left;
+    width: 85%;
+    font-weight: 1000;
+    font-style: italic;
+  }
+
+ .price {
+    text-align: left;
+ }
+
+ 
